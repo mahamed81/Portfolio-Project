@@ -1,0 +1,26 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.site-footer {
+  background-image: linear-gradient(#CEC8FF, white);
+  padding: 20px 0;
+}
+
+.navbar {
+  background-color: #220b27;
+}
+
+.jumbotron {
+  background-color: white;
+  padding-bottom: 10px;
+  font-family: eurostile, sans-serif;
+}
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+/*# sourceMappingURL=styles.css.map */

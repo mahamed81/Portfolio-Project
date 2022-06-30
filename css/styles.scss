@@ -1,0 +1,33 @@
+
+$color-pale: #CEC8FF;
+$color-mid: #220b27;
+$color-black-transparent: rgba(0, 0, 0, 0.5);
+
+$body-font: "Open Sans", sans-serif;
+$header-font: eurostile, sans-serif;
+
+body {
+  font-family: $body-font;
+}
+
+
+.site-footer{
+  background-image: linear-gradient($color-pale, white);
+  padding: 20px 0;
+}
+
+.navbar {
+  background-color: $color-mid;
+}
+
+.jumbotron {
+    background-color: white;
+    padding-bottom: 10px; 
+    font-family:$header-font;
+    
+}
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
